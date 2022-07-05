@@ -1,6 +1,5 @@
 - 👋 Hi, 
 - 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning ... java .. !!
 - 💞️ Here are my game projects 
 
 
